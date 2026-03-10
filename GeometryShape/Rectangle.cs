@@ -1,4 +1,9 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.InteropServices;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace GeometryShape
 {
@@ -10,8 +15,9 @@ namespace GeometryShape
         public Rectangle(double width, double height)
         {
             if (width <= 0 || height <= 0)
+            {
                 throw new ArgumentException("Стороны должны быть положительными");
-
+            }
             Width = width;
             Height = height;
         }
@@ -23,12 +29,11 @@ namespace GeometryShape
 
         public override double Perimeter()
         {
-            return 2 * (Width + Height);
+            return (Width + Height) * 2;
         }
-
         public override string ToString()
         {
-            return $"Rectangle: Width={Width}, Height={Height}";
+            return $"Прямоугольник: {Width} x {Height}, с площадью: {Area()}, и периметром: {Perimeter()}";
         }
     }
 }
