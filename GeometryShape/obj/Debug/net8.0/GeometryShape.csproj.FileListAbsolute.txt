@@ -1,0 +1,12 @@
+C:\Users\Your PC\Documents\Для отчётов\OKFKS\GeometryShape\GeometryShape\bin\Debug\net8.0\GeometryShape.deps.json
+C:\Users\Your PC\Documents\Для отчётов\OKFKS\GeometryShape\GeometryShape\bin\Debug\net8.0\GeometryShape.dll
+C:\Users\Your PC\Documents\Для отчётов\OKFKS\GeometryShape\GeometryShape\bin\Debug\net8.0\GeometryShape.pdb
+C:\Users\Your PC\Documents\Для отчётов\OKFKS\GeometryShape\GeometryShape\obj\Debug\net8.0\GeometryShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Your PC\Documents\Для отчётов\OKFKS\GeometryShape\GeometryShape\obj\Debug\net8.0\GeometryShape.AssemblyInfoInputs.cache
+C:\Users\Your PC\Documents\Для отчётов\OKFKS\GeometryShape\GeometryShape\obj\Debug\net8.0\GeometryShape.AssemblyInfo.cs
+C:\Users\Your PC\Documents\Для отчётов\OKFKS\GeometryShape\GeometryShape\obj\Debug\net8.0\GeometryShape.csproj.CoreCompileInputs.cache
+C:\Users\Your PC\Documents\Для отчётов\OKFKS\GeometryShape\GeometryShape\obj\Debug\net8.0\GeometryShape.sourcelink.json
+C:\Users\Your PC\Documents\Для отчётов\OKFKS\GeometryShape\GeometryShape\obj\Debug\net8.0\GeometryShape.dll
+C:\Users\Your PC\Documents\Для отчётов\OKFKS\GeometryShape\GeometryShape\obj\Debug\net8.0\refint\GeometryShape.dll
+C:\Users\Your PC\Documents\Для отчётов\OKFKS\GeometryShape\GeometryShape\obj\Debug\net8.0\GeometryShape.pdb
+C:\Users\Your PC\Documents\Для отчётов\OKFKS\GeometryShape\GeometryShape\obj\Debug\net8.0\ref\GeometryShape.dll
